@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Chetan-Chavan
-- 👀 I’m interested in Web Development and new technologies
-- 🌱 I’m currently learning Django
+- 👀 I’m an enthusiastic programmer
+- 👀 I'm interested in Web-development(Backend) and ETL
+- 🌱 I’m currently learning Hadoop
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me chavanhchetan@gmail.com
 
