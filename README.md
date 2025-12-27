@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Chetan-Chavan
 - 👀 I’m an enthusiastic programmer
 - 👀 I'm interested in Web-development(Backend) and ETL
-- 🌱 I’m currently learning Hadoop
-- 💞️ I’m looking to collaborate on Web Development
+- 🌱 I’m currently learning Gen-AI
+- 💞️ I’m looking to collaborate on Web Development and AI development
 - 📫 How to reach me chavanhchetan@gmail.com
 
 <!---
